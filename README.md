@@ -1,16 +1,51 @@
-## Hi there 👋
+# ִ ࣪ ˖ ࣪ ᨰꫀᥣᥴ᥆ꩇꫀ ! ᰔ ִ ׄ
 
-<!--
-**nicolyc4rdoso/nicolyc4rdoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# # # ִ ࣪𖤐 Oii, eu sou a Nicoly Cardoso!
 
-Here are some ideas to get you started:
+# ## ⚛︎ Estudando Python  
+# ## 🚀 Aprendendo programação e tecnologia  
+# ## 🎨 Gosto de design, criatividade e desenvolver projetos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# # ✨ "Life goes on"  
+# # ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
+
+---
+
+# # 🐍 Atualmente aprendendo
+
+# ## Python  
+# ## Lógica de programação
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/6ZUs58774VcAAAAi/sun.gif" width="170">
+</p>
+
+---
+
+# # 📌 Objetivos
+
+# ## ✨ Melhorar minhas habilidades em programação  
+# ## ✨ Conseguir um trabalho nessa área  
+# ## ✨ Aprender novas tecnologias  
+
+---
+
+# # 📊 Meu GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
+---
+
+# # 🌐 Redes sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/niicoly.cardoso)
+
+# ## @niicoly.cardoso
+
+---
+
+# # ⭐ Bem-vindo(a) ao meu perfil!
