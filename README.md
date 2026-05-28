@@ -25,11 +25,10 @@
 ```python
 class Nicoly:
     nome = "Nicoly Cardoso"
-    role = "Estudante & futura desenvolvedora"
     linguagem = ["Python"]
     interesses = ["Tecnologia", "Design", "Criatividade", "Programação"]
     objetivo = "Evoluir cada dia mais e transformar ideias em código"
-    frase = "Life goes on."
+
 ```
 
 <br/>
