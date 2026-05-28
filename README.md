@@ -120,7 +120,7 @@ class Nicoly:
 
 ![Gmail](https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail&logoColor=white)
 
-](mailto:cardosoferreiracostanicoly@gmail.com)
+](emailto:nicolycfc7@gmail.com)
 [
 
 ![Instagram](https://img.shields.io/badge/Instagram-dc2626?style=for-the-badge&logo=instagram&logoColor=white)
