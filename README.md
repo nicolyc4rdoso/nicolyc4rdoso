@@ -84,10 +84,10 @@ frase = "A vida continua."
 
 ## estatísticas
 
-<img height="165em" src=" https://github-readme-stats.vercel.app/api?username=nicolyc4rdoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d "/>
-<img height="165em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=nicolyc4rdoso&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d "/>
+<img height="165em" src=" https://github-readme-stats.vercel.app/api?username=nicolyc4rdoso&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=f87171&icon_color=dc2626&text_color=ffffff&ring_color=dc2626 "/>
+<img height="165em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=nicolyc4rdoso&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=f87171&text_color=ffffff "/>
 
-<img src=" https://github-readme-activity-graph.vercel.app/graph?username=nicolyc4rdoso&theme=redical&hide_border=true&bg_color=0d0d0d&color=f87171&line=dc2626&point=ffffff "/>
+<img src=" https://github-readme-activity-graph.vercel.app/graph?username=nicolyc4rdoso&hide_border=true&bg_color=0d0d0d&color=f87171&line=dc2626&point=ffffff "/>
 
 </div>
 
@@ -120,7 +120,7 @@ frase = "A vida continua."
 
 ![Gmail]( https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail&logoColor=white )
 
-](mailto: nicolycfc7@gmail.com )
+(E-mail: nicolycfc7@gmail.com )
 [
 
 ![Instagram]( https://img.shields.io/badge/Instagram-dc2626?style=for-the-badge&logo=instagram&logoColor=white )
